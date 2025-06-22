@@ -1,0 +1,7 @@
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\bin\Debug\OdevOlasilik.exe.config
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\bin\Debug\OdevOlasilik.exe
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\bin\Debug\OdevOlasilik.pdb
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\obj\Debug\OdevOlasilik.csproj.AssemblyReference.cache
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\obj\Debug\OdevOlasilik.csproj.CoreCompileInputs.cache
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\obj\Debug\OdevOlasilik.exe
+C:\Users\begen\source\repos\OdevOlasilik\OdevOlasilik\obj\Debug\OdevOlasilik.pdb
